@@ -1,11 +1,11 @@
-# ![Logo](https://via.placeholder.com/150) Paulo Dalla Lana  
+# Paulo Dalla Lana  
 
 ## Desenvolvedor Front-End  
 
 ---  
 
 ### Sobre Mim  
-Sou um desenvolvedor apaixonado por criar experiências web incríveis e interativas.  
+Sou um desenvolvedor apaixonado por criar experiências web incríveis e interativas. Sempre busco aprender novas tecnologias e aprimorar minhas habilidades.  
 
 ---  
 
@@ -29,10 +29,5 @@ Você pode me encontrar no meu perfil do LinkedIn: [Paulo Dalla Lana](https://ww
 
 ---  
 
-<p align="center">  
-    <img src="https://via.placeholder.com/150" alt="GitHub" width="100">  
-</p>  
-
----  
-
-&copy; 2025 Paulo Dalla Lana. Todos os direitos reservados.  
+### Agradecimentos  
+Agradeço a todos que colaboram e contribuem para a comunidade de código aberto. Juntos, fazemos a diferença!  
