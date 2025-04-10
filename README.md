@@ -21,12 +21,15 @@ Sou um desenvolvedor apaixonado por criar experiências web incríveis e interat
 
 ### Projetos  
 1. [Exercício Cartão de Visita](https://github.com/paulinhodallalana/exercicio-cartao-de-visita) - Um projeto de exemplo em HTML e CSS.  
-2. [Repositório com README](https://github.com/paulinhodallalana/repositorio-com-redme) - Estrutura de README para GitHub.  
+2. [Repositório com README](https://github.com/paulinhodallalana/repositorio-com-redme) - Estrutura de README para GitHub.
+   
 
 ---  
 
 ### Entre em Contato  
-Você pode me encontrar no meu perfil do LinkedIn: [Paulo Dalla Lana](https://www.linkedin.com/in/paulo-dalla-lana-91510ba9/).  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/paulinhodallalana) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/551992827827)  
 
 ---  
 
