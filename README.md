@@ -1,7 +1,6 @@
 # Paulo Dalla Lana  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Paulinho%20Dalla%20Lana%20&theme=great-gatsby&hide_border=falso&border_radius=6.5&short_numbers=falso&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Paulinho%20Dalla%20Lana&theme=great-gatsby&hide_border=false&border_radius=6.5&short_numbers=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 ## :sparkles: Desenvolvedor Front-End :sparkles:  
 
 ---  
