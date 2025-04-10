@@ -1,82 +1,25 @@
-<!DOCTYPE html>  
-<html lang="pt-br">  
-<head>  
-    <meta charset="UTF-8">  
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>Meu Portfólio Front-End</title>  
-    <style>  
-        body {  
-            margin: 0;  
-            padding: 20px;  
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
-            background-color: #007BFF; /* Fundo azul */  
-            color: #ffffff;  
-        }  
+# Paulo Dalla Lana  
 
-        h1, h2, h3 {  
-            text-align: center;  
-        }  
+## Desenvolvedor Front-End  
 
-        .container {  
-            max-width: 800px;  
-            margin: auto;  
-            background: rgba(0, 0, 0, 0.7);  
-            padding: 20px;  
-            border-radius: 10px;  
-        }  
+### Sobre Mim  
+Sou um desenvolvedor apaixonado por criar experiências web incríveis.  
 
-        a {  
-            color: #00ffcc;  
-            text-decoration: none;  
-        }  
+### Habilidades  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+- **React**  
+- **Vue**  
 
-        a:hover {  
-            text-decoration: underline;  
-        }  
+### Projetos  
+- [Exemplo de Projeto 1](https://github.com/paulinhodallalana/exercicio-cartao-de-visita)  
+- [Exemplo de Projeto 2](https://github.com/paulinhodallalana/repositorio-com-redme)  
 
-        .skills {  
-            display: flex;  
-            justify-content: center;  
-            flex-wrap: wrap;  
-        }  
+### Entre em Contato  
+Você pode me encontrar no meu perfil do LinkedIn: [Paulo Dalla Lana](https://www.linkedin.com/in/paulo-dalla-lana-91510ba9/).  
 
-        .skill {  
-            background: #00cc99;  
-            border-radius: 5px;  
-            padding: 5px 10px;  
-            margin: 5px;  
-            font-weight: bold;  
-        }  
-    </style>  
-</head>  
-<body>  
-    <div class="container">  
-        <h1>Paulo Dalla Lana</h1>  
-        <h2>Desenvolvedor Front-End</h2>  
-
-        <h3>Sobre Mim</h3>  
-        <p>Sou um desenvolvedor apaixonado por criar experiências web incríveis, utilizando tecnologias modernas e práticas recomendadas.</p>  
-
-        <h3>Habilidades</h3>  
-        <div class="skills">  
-            <div class="skill">HTML</div>  
-            <div class="skill">CSS</div>  
-            <div class="skill">JavaScript</div>  
-            <div class="skill">React</div>  
-            <div class="skill">Vue</div>  
-        </div>  
-
-        <h3>Projetos</h3>  
-        <ul>  
-            <li>[Projeto 1](link-do-projeto) - Descrição do projeto.</li>  
-            <li>[Projeto 2](link-do-projeto) - Descrição do projeto.</li>  
-        </ul>  
-
-        <h3>Entre em Contato</h3>  
-        <p>  
-            Você pode me encontrar no meu perfil do LinkedIn:   
-            <a href="https://www.linkedin.com/in/paulo-dalla-lana-91510ba9/">Paulo Dalla Lana</a>  
-        </p>  
-    </div>  
-</body>  
-</html>  
+<div style="background-color: #007BFF; color: #fff; padding: 20px; border-radius: 10px;">  
+    <h3>Bem-vindo ao meu perfil!</h3>  
+    <p>Este repositório contém meus projetos de front-end e habilidades. Sinta-se à vontade para contribuir!</p>  
+</div>  
