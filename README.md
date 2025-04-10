@@ -1,11 +1,11 @@
 # Paulo Dalla Lana  
 
-## Desenvolvedor Front-End  
+## :sparkles: Desenvolvedor Front-End :sparkles:  
 
 ---  
 
 ### Sobre Mim  
-Sou um desenvolvedor apaixonado por criar experiências web incríveis e interativas. Sempre busco aprender novas tecnologias e aprimorar minhas habilidades.  
+Sou um desenvolvedor apaixonado por criar experiências web incríveis e interativas. Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades.  
 
 ---  
 
@@ -19,8 +19,8 @@ Sou um desenvolvedor apaixonado por criar experiências web incríveis e interat
 ---  
 
 ### Projetos  
-- [Exercício Cartão de Visita](https://github.com/paulinhodallalana/exercicio-cartao-de-visita) - Projeto de exemplo em HTML e CSS.  
-- [Repositório com README](https://github.com/paulinhodallalana/repositorio-com-redme) - Estrutura de README para GitHub.  
+1. [Exercício Cartão de Visita](https://github.com/paulinhodallalana/exercicio-cartao-de-visita) - Um projeto de exemplo em HTML e CSS.  
+2. [Repositório com README](https://github.com/paulinhodallalana/repositorio-com-redme) - Estrutura de README para GitHub.  
 
 ---  
 
